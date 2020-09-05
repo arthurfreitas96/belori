@@ -23,3 +23,5 @@ You can create new playlists simple by requesting songs to a non-existent playli
 Dependences:  
 python3  
 youtube-dl
+
+youtube-dl is often updated, so always keep it updated and download it from the software's official page.
