@@ -1,7 +1,7 @@
 # belori
 Special thanks to Lucas Lugão Guimarães
 
-This is a simple application that uses youtube-dl to download songs from YouTube to your computer.
+This is a simple application that uses youtube-dl to download entire playlists from YouTube to your computer.
 
 Use the 'SearchQuery.txt' file in the 'config' folder to write the names of your favorite songs according to the following format:
 
