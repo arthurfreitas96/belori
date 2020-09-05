@@ -5,16 +5,11 @@ This is a simple application that uses youtube-dl to download entire playlists f
 
 Use the 'SearchQuery.txt' file in the 'config' folder to write the names of your favorite songs according to the following format:
 
-Playlist name here, in the first line
-
-\#
-
-first song here
-
-second here
-
-third here
-
+Playlist name here, in the first line  
+\#  
+first song here  
+second here  
+third here  
 and so on
 
 Don't worry about fancy writing the song names. Write them as if you were searching on YouTube.
