@@ -18,7 +18,7 @@ After finishing with the 'SearchQuery.txt' file, from terminal, run 'python3 dow
 
 The songs will be saved in a folder named after your playlist choosen name. This folder also includes a .m3u file with the same name and the song names are stored inside it following the order requested in the 'SearchQuery.txt' file.
 
-You can create new playlists simple by requesting songs to a nonexistent playlist name. Likewise, you can add songs to a playlist by requesting songs to a preexistent playlist name. All your playlists are stored inside a 'Playlists' folder.
+You can create new playlists simple by requesting songs to a non-existent playlist name. Likewise, you can add songs to a playlist by requesting songs to a pre-existent playlist name. All your playlists are stored inside a 'Playlists' folder.
 
 Dependences:
 python3
