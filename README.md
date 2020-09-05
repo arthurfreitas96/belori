@@ -1,5 +1,5 @@
 # belori
-Special thanks to Lucas Lugão Guimaraes
+Special thanks to Lucas Lugão Guimarães
 
 This is a simple application that uses youtube-dl to download songs from YouTube to your computer.
 
